@@ -1,3 +1,0 @@
-
-bash-3.2$ >> node liri.js my-tweets
-ERROR: Retrieving user tweets -- [object Object]
